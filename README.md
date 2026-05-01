@@ -26,9 +26,7 @@ The goal of this project is to transform raw data into actionable insights throu
 
 ---
 
-![Dashboard]()
-
-1[Dashboard]()
+![Dashboard](https://github.com/rohannn16/swiggy-sales-analysis-dashboard-excel/blob/main/Images/Dashboard.png)
 
 
 ## 📈 Key Insights
@@ -83,6 +81,8 @@ Swiggy_Analysis_project/
 ├── LICENSE
 └── .gitignore
 ```
+
+## Contact Me
 
 - [LinkedIn](www.linkedin.com/in/rohankumards16)
 - [GitHub](https://github.com/rohannn16?tab=repositories) 
