@@ -71,6 +71,9 @@ Swiggy_Analysis_project/
 │ ├── charts.png
 │ └── analysis.png
 │
+├── Insights/
+│ └── Food-Delivery-Performance-Insights.pptx
+│ 
 ├── Swiggy Analysis Dashboard/
 │ └── Swiggy Sales Analysis Excel.xlsm
 │
